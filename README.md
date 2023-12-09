@@ -1,2 +1,10 @@
-# NumberImpact_Wish
-A random number generator, but made with unity/随机数生成器，但是用Unity整活
+# [WIP] NumberImpact_Wish Update
+
+Update the information used
+
+更新用的信息
+
+|文件名|||
+|-|-|-|
+version_stable.txt|版本，用以检查是否有版本更新||
+version_test.txt|测试用
