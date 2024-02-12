@@ -70,3 +70,13 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+/[Aa]ssets/[Ss]treamingAssets/AB
+
+#resource masking
+/[Aa]ssets/Media/
+/[Aa]ssets/audio/934b16e82b94d5790175615303594f0ec28da4a0.ogg
+/[Aa]ssets/image/Chipped_Anvil_JE3.*
+/[Aa]ssets/image/Iron_Ingot_JE3_BE2.*
+/[Aa]ssets/image/random-PHIART.*
+/[Aa]ssets/image/风灵拍番茄_00001.*

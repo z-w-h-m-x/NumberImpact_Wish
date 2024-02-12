@@ -1,0 +1,5 @@
+zh_cn
+generate==get
+wish==wish
+beat==beat!
+place==DropIt!
