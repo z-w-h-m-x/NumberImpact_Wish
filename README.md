@@ -12,6 +12,6 @@ Use Unity 2021.3.6f1
 
 ## todo
 
-[ ] auto update / 自动更新
-[ ] clear code / 清理（整理）代码
-[ ] translate / 翻译
+- [ ] auto update / 自动更新
+- [ ] clear code / 清理（整理）代码
+- [ ] translate / 翻译
